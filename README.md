@@ -27,7 +27,7 @@ In the following I will be explaining what I changed in the __index.html file an
     - Also adjusted adjacent styles (e.g. headings)
 - Consolidated .search-engine-optimization, .online-reputation-management, and .social-media-marketing in a new class to eliminate CSS duplicates
     - Adjusted adjacent styles (e.g. img-tags and headings)
-- Defined most frequently used font family in body-style. Left font for header (wordmark) and footer styles untouched.
+- Defined most frequently used font family in body-style. Left Trebuchet font for header (wordmark) and footer styles as initially defined.
 - Rearranged styles to follow the semantic structure of the html-elements.
 
 ### Other adjustments
