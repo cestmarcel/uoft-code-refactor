@@ -1,7 +1,7 @@
 # uoft-code-refactor
 ## Homework assignment no. 1 | May 12, 2020
 
-Homework assignment for HTML/CSS as part of University of Toronto's Coding class. The task was to make a website's hmtl code more accessible by using semantic html. I replaced the div-tags in the document with more easily understandable tags to make the code more accessible. I also fixed a broken anchor link and made other slight adjustments.
+Homework assignment for HTML/CSS as part of University of Toronto's Coding class. The task was to make a website's hmtl code more accessible by using semantic html. I replaced the div-tags in the document with more easily understandable tags to make the code more accessible. I also fixed a broken anchor link and made other adjustments, including cleaning up the CSS.
 
 In the following I will be explaining what I changed in the __index.html file and other changes__ that I made.
 
